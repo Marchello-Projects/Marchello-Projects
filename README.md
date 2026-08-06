@@ -1,7 +1,7 @@
 <img width="3033" height="1594" alt="Desktop - 6" src="https://github.com/user-attachments/assets/93e3f85a-5bac-407d-b3fd-43e8e511dbbf" />
 
 # 💫 About Me:
-Hi! I'm Marchello (Marko) 👋<br><br>🎓 Software Engineering student at the **International Humanitarian University**, [Faculty of Cybersecurity, Software Engineering and Computer Science](https://fkpikn-univ.od.ua/).<br><br>💻 I enjoy building backend applications, REST APIs, automation tools, and full-stack projects.<br><br>**Tech Stack**<br><br>* 🐍 Python<br>* ⚡ TypeScript / JavaScript<br>* 🌐 FastAPI, Django, NestJS<br>* 🗄 PostgreSQL, SQLite<br>* 🐳 Docker<br>* 🐧 Linux<br><br>I'm constantly learning, building new projects, and expanding my knowledge of software engineering.<br>
+Hi! I'm Marchello (Marchello-Projecys / Marko) 👋<br><br>🎓 Software Engineering student at the **International Humanitarian University**, [Faculty of Cybersecurity, Software Engineering and Computer Science](https://fkpikn-univ.od.ua/).<br><br>💻 I enjoy building backend applications, REST APIs, automation tools, and full-stack projects.<br><br>**Tech Stack**<br><br>* 🐍 Python<br>* ⚡ TypeScript / JavaScript<br>* 🌐 FastAPI, Django, NestJS<br>* 🗄 PostgreSQL, SQLite<br>* 🐳 Docker<br>* 🐧 Linux<br><br>I'm constantly learning, building new projects, and expanding my knowledge of software engineering.<br>
 
 
 # 💻 Tech Stack:
