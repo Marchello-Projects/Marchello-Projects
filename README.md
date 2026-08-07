@@ -4,7 +4,7 @@
 
 Hi! I'm **Mark** (also known as **Marchello** or **Marchello-Projects**) 👋
 
-I'm a **Software Engineering** student at the **International University**, studying at the **Faculty of Cybersecurity, Software Engineering and Computer Science**.
+I'm a **Software Engineering** student at the **International University**, studying at the **[Faculty of Cybersecurity, Software Engineering and Computer Science](https://fkpikn-univ.od.ua/)**.
 
 I'm passionate about backend development and enjoy building REST APIs, automation tools, and full-stack applications. I like turning ideas into real projects, exploring new technologies, and continuously improving my skills as a software engineer.
 
